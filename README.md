@@ -16,11 +16,12 @@ The **AlgoVisualizer** is a web-based application that allows users to visualize
     - Binary Search
     - Ternary Search
     
-### 2. Speed Control
+### 2. User Control
 - Adjust the speed of the visualization:
   - Slow
   - Normal
   - Fast
+- Pause or Reset the visualization process.
 
 ### 3. Custom Input
 - Users can input the length of an array to visualize the process.
